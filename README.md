@@ -28,8 +28,8 @@
 ![Menu Screenshot](images/photo_2025-01-01_23-51-30.jpg)
 
 ### Вопросы
-![Question Screenshot](link-to-question-screenshot)
+![Question Screenshot](images/photo_2025-01-01_23-58-23.jpg)
 
 ### Результат
-![Results Screenshot](link-to-results-screenshot)
+![Results Screenshot](images/photo_2025-01-01_23-55-57.jpg)
 
