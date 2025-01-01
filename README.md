@@ -27,6 +27,12 @@
 ### Меню программы
 ![Menu Screenshot](images/photo_2025-01-01_23-51-30.jpg)
 
+### Інформація про тест
+![Question Screenshot](images/photo_2025-01-01_23-53-55.jpg)
+
+### Про автора
+![Question Screenshot](images/photo_2025-01-01_23-54-22.jpg)
+
 ### Вопросы
 ![Question Screenshot](images/photo_2025-01-01_23-58-23.jpg)
 
