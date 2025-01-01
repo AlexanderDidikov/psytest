@@ -25,7 +25,7 @@
 
 ## Пример использования
 ### Меню программы
-![Menu Screenshot](link-to-menu-screenshot)
+![Menu Screenshot](images/photo_2025-01-01_23-51-30.jpg)
 
 ### Вопросы
 ![Question Screenshot](link-to-question-screenshot)
